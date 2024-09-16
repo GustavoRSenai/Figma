@@ -1,20 +1,21 @@
-## ✏️Manual de Marca✏️
-
-Repositório focado em tipografia e cores
+# FIGMA
 
 ###
+<a href="https://www.figma.com">
+<img align="left" height="175" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" /> </a>
 
-<img align="center" height="175" src="https://cdn.dribbble.com/users/42759/screenshots/894208/marker-font.gif" />
+>O figma é uma plataforma de prototipagem utilizada para criação de designs UX/UI. A plataforma é muito utilizada para criações em equipe pois possui uma atualização em tempo real assim facilitando as mudanças e a exposição de ideais da equipe.
+<br>
+<br>
+<br>
 
-#
+# 
 
-### Atividade tipografia e cores ###
+### Manual de Marca ou Guia de Estilos ###
 
-O intuito da atividade é comparar um site que segue as definições corretas de tipografia e cores e um site que não segue corretamente estas definições
+A atividade foi feita para que aprendessemos como utilizar a plataforma figma e como criar um manual de marca.
+* O manual a seguir possui Logomarca, Cores e tipografia.
 
-#
+<img align="left" height="300" src="https://github.com/user-attachments/assets/085331f7-cf32-4169-92cd-a333d7d4de8d" />
 
-### Site que não segue os requisitos. ###
-
-<img align="left" height="200" src="https://github.com/user-attachments/assets/d9d128e3-1f49-48cc-963f-5a64335e3176" />
-<img align="center" height="200" src="https://github.com/user-attachments/assets/5f2d496e-26a4-4578-9456-a26efb6f0cf9" />
+>O manual de Marca ou Guia de estilos serve para ajudar o designer que esta fazendo sua logo, propaganda ou uniforme a saber quais cores, fontes e padrões serão necessários seguir e como segui-los
